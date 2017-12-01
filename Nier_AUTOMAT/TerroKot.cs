@@ -13,6 +13,17 @@ namespace Nier_AUTOMAT
             {
                 i++;
                 x=rand.Next(0,4);
+                hvghvhvhvbv
+
+
+
+
+
+
+
+
+
+
                 if (x == 0)
                 {
                     Coordinates[0] += Speed;
